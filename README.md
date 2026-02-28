@@ -1,2 +1,1 @@
-An interactive data analytics dashboard built to analyze content distribution, ratings, genres, and trends on Prime Video.
-This project demonstrates data cleaning, exploratory data analysis (EDA), and dashboard development skills using real-world streaming data.
+I created an interactive data analytics dashboard that helps explore content distribution, ratings, genres, and trending topics on Prime Video. This project showcases my ability to clean data, dive into exploratory data analysis (EDA), and develop user-friendly dashboards—all using real-world streaming data. It’s a hands-on way to understand what’s popular, what genres are dominating, and how content is spread across the platform.
